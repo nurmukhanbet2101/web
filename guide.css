@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(255, 255, 255);
+    background-image: url(habits.jpg);
+}
+article{
+    border: black 4px solid;
+    margin-top: 10px;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+.divflex{
+    display: contents;
+}
+.brand{
+    color: white; 
+    font-weight: bold;
+    text-decoration: none; 
+    font-size: 44px;
+    margin-left: 10px;
+    
+}
+.link1{
+    color: white;
+    font-weight: bold;
+    text-decoration: none; 
+    font-size: 20px;
+    margin-left: 700px;
+}
+.link1:hover {color: rgb(44, 44, 75); font-weight: 1500;}
+.links:hover {color: rgb(44, 44, 75); font-weight: 1500;}
+.links{
+    color: white; 
+    font-weight: bold;
+    text-decoration: none; 
+    font-size: 20px;
+    margin-left: 15px;
+
+}
+.button{
+    color: rgb(44, 44, 75);
+    margin-left: 20px;
+    
+}
+.buttonText{
+    color: rgb(44, 44, 75); 
+    font-weight: bold;
+    text-decoration: none; 
+    font-size: 20px;
+}

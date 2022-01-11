@@ -1,0 +1,104 @@
+body{
+    background-color: rgb(255, 255, 255);
+    background-image: url(habits.jpg);
+}
+.divflex{
+    display: contents;
+}
+.brand{
+    color: white; 
+    font-weight: bold;
+    text-decoration: none; 
+    font-size: 44px;
+    margin-left: 10px;
+    
+}
+.link1{
+    color: white;
+    font-weight: bold;
+    text-decoration: none; 
+    font-size: 20px;
+    margin-left: 700px;
+}
+.link1:hover {color: rgb(44, 44, 75); font-weight: 1500;}
+.links:hover {color: rgb(44, 44, 75); font-weight: 1500;}
+.links{
+    color: white; 
+    font-weight: bold;
+    text-decoration: none; 
+    font-size: 20px;
+    margin-left: 20px;
+
+}
+.button{
+    
+    color: rgb(44, 44, 75);
+    margin-left: 20px;
+    
+}
+.buttonText{
+    color: rgb(44, 44, 75); 
+    font-weight: bold;
+    text-decoration: none; 
+    font-size: 20px;
+}   
+.nameofproduct{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 20px;
+    font-size: 30px;
+    color: rgb(131, 131, 131);
+}
+.colors{
+font-size: 20px;
+}
+.colorstyle{
+    border-color: blanchedalmond;
+    border-radius: 10px;
+margin-left: 20px;
+width:30px;
+height:30px;
+}
+.colortext{
+    color:rgb(88, 88, 189);
+}
+.available{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 200px;
+    height: 80px;
+    color: white;
+    border-radius: 20px;
+    border-color: rgb(255, 255, 255);
+    margin-top: 70px;
+    font-size: 19px;
+    margin-left: 20px;
+    background-color: #51d856;
+}
+.information2{   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 23px;
+    margin-bottom: 60px;
+}
+.button1{
+    border-radius: 50px;
+    border-color: white ;
+    width: 250px;
+    height: 80px;
+    background-color: #51d856;
+    margin-left: 100px;
+}
+.buttonText1{
+    color: rgb(255, 255, 255); 
+    font-weight: bold;
+    text-decoration: none; 
+    font-size: 60px;
+}
+.priceofProduct{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+    color: rgb(0, 0, 0);
+}
+.copyright{ 
+    color: aliceblue; 
+    margin-left: 750px;
+    text-decoration: none;
+}
